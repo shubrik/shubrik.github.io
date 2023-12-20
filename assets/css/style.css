@@ -475,6 +475,13 @@ section .container {
   background-color: #1c7d32;
 }
 
+.skills-category{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  flex-direction: column;
+}
+
 /*--------------------------------------------------------------
 # Interests
 --------------------------------------------------------------*/
